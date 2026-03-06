@@ -1,6 +1,6 @@
 # encrypt-spring-boot-starter
 
-一个无侵入的 Spring Boot Starter，可快速为 API 接口添加加解密功能。
+一个无侵入的 Spring Boot Starter，可快速为 API 接口添加加解密功能。自取求star。
 
 ## 功能特性
 
